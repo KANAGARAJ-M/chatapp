@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481023956338",
+    "project_id": "chat-app-kanagaraj",
+    "storage_bucket": "chat-app-kanagaraj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481023956338:android:166bd810ab059723abf9eb",
+        "android_client_info": {
+          "package_name": "chatwithall.mskp.tamilanproject.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481023956338-ucmur4d6o0ts1r6gh1d0kj77kcdr5fun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzq0KJpEEiQEdXykW_iIpp3KlAoYjiHA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481023956338-ucmur4d6o0ts1r6gh1d0kj77kcdr5fun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
