@@ -61,7 +61,7 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              const Text('CHaT ApP will need to verify your phone number.'),
+              const Text('Chat RIO will need to verify your phone number.'),
               const SizedBox(height: 10),
               TextButton(
                 onPressed: pickCountry,
