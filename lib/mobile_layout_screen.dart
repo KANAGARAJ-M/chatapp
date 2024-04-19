@@ -1,6 +1,5 @@
 import 'dart:io';
-import 'package:chatapp/features/call/screens/call_pickup_screen.dart';
-import 'package:chatapp/features/call/screens/call_screen.dart';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:chatapp/common/utils/colors.dart';
